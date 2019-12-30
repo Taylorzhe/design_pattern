@@ -1,7 +1,7 @@
 package decorator.v2;
 
 /**
- * 描述：
+ * 描述：加一根香肠
  */
 public class SausageDecorator extends AbstractDecorator {
     public SausageDecorator(ABatterCake aBatterCake) {

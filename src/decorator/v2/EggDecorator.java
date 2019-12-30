@@ -1,7 +1,7 @@
 package decorator.v2;
 
 /**
- * 描述：
+ * 描述：加一个鸡蛋
  */
 public class EggDecorator extends AbstractDecorator {
     public EggDecorator(ABatterCake aBatterCake) {

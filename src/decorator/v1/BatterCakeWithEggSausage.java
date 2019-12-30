@@ -3,7 +3,7 @@ package decorator.v1;
 import decorator.v1.BatterCakeWithEgg;
 
 /**
- * 描述：
+ * 描述：加一个鸡蛋和一根香肠的煎饼
  */
 public class BatterCakeWithEggSausage extends BatterCakeWithEgg {
     @Override

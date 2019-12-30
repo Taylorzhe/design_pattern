@@ -1,7 +1,7 @@
 package decorator.v2;
 
 /**
- * 描述：
+ * 描述：测试类
  */
 public class Test {
     public static void main(String[] args) {

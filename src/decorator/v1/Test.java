@@ -5,7 +5,7 @@ import decorator.v1.BatterCakeWithEgg;
 import decorator.v1.BatterCakeWithEggSausage;
 
 /**
- * 描述：
+ * 描述：测试类
  */
 public class Test {
     public static void main(String[] args) {

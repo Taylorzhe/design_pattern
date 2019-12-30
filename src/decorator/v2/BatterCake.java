@@ -1,7 +1,7 @@
 package decorator.v2;
 
 /**
- * 描述：
+ * 描述：煎饼
  */
 public class BatterCake extends ABatterCake {
     @Override
